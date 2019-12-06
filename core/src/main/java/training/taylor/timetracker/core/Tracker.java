@@ -40,6 +40,7 @@ public class Tracker {
         }
 
         return entries.get(index);
+        return entries.get(results)
       
     }
 }
