@@ -45,7 +45,7 @@ public class TimeEntry {
                 ", rate=" + rate +
                 ", time=" + time +
                 '}';
-        time tracker
+        
         
     }
 }
