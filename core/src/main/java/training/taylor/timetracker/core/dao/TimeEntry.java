@@ -44,6 +44,6 @@ public class TimeEntry {
                 ", rate=" + rate +
                 ", time=" + time +
                 '}';
-        return time ()
+        
     }
 }
